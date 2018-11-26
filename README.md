@@ -26,21 +26,21 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <br>
 <br>
 
-<h4>localhost:4000 willshow <b>Graphql</b></h4> 
+<h4>localhost:4000 will show Graphql</h4> 
 
-type this  to create a post in localhost:4000
+<h5>enter like this to create a post in localhost:4000</h5>
 
-mutation{
-  createPost(username:"Mark Zuckerberg",imageurl:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg/220px-Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg",posts:"This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like")
-  {
+<h4> mutation {<br>
+  createPost (username:"Mark Zuckerberg",imageurl:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg/220px-Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg",posts:"This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like")<br>
+  {<br>
 		id
  		username
 		imageurl
     posts
     
-  }
-}
-
+  }<br>
+}<br>
+<h4>
 then 
 
 <h3>Client</h3>

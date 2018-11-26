@@ -14,6 +14,7 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 
 
 
+<hr>
 
 <h3>Server</h3>
 1. cd server<br>
@@ -25,7 +26,7 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <br>
 <br>
 
-<h4>localhost:4000</h4><span>will  show<span><h4>Graphql</h4> 
+<h4>localhost:4000 willshow <b>Graphql</b></h4> 
 
 type this  to create a post in localhost:4000
 

@@ -27,7 +27,10 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <br>
 
 <h4>localhost:4000 will show Graphql</h4> 
-
+<p align="center">
+  <img width="150" src="./graphql.png">
+  <br/>
+</p>
 <h5>enter like this to create a post in localhost:4000</h5>
 
 <h4> mutation {<br>
@@ -42,7 +45,7 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 }<br>
 <h4>
 
- 
+
 
 <h3>Client</h3><br>
 1. cd client<br>

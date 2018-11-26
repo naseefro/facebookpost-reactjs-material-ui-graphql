@@ -21,7 +21,11 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 3. node server.js ------> to run server <br>
 4. Visit [localhost:4000](http://localhost:4000) <br>
 
-it will  show <h4>Graphql</h4> 
+<br>
+<br>
+<br>
+
+<h4>localhost:4000</h4><span>will  show<span><h4>Graphql</h4> 
 
 type this  to create a post in localhost:4000
 

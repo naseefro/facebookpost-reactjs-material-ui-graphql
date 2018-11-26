@@ -33,10 +33,10 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <h4> mutation {<br>
   createPost (username:"Mark Zuckerberg",imageurl:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg/220px-Mark_Zuckerberg_F8_2018_Keynote_%28cropped%29.jpg",posts:"This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like")<br>
   {<br>
-		id
- 		username
-		imageurl
-    posts
+		id <br>
+ 		username <br>
+		imageurl <br>
+    posts <br>
     
   }<br>
 }<br>

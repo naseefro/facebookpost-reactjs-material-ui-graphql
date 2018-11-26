@@ -16,10 +16,10 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 
 
 <h3>Server</h3>
-1. cd server
-2. npm install ----> To install node_modules
-3. node server.js ------> to run
-4. Visit [localhost:4000](http://localhost:4000).
+1. cd server<br>
+2. npm install ----> To install node_modules<br>
+3. node server.js ------> to run server <br>
+4. Visit [localhost:4000](http://localhost:4000) <br>
 
 it will  show <h4>Graphql</h4> 
 

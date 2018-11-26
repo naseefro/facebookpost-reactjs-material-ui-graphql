@@ -3,7 +3,7 @@ its sample reactjs code for facebook post using nodejs,mongodb,graphql
 
 
 <p align="center">
-  <img width="150" src="./posts.png">
+  <img width="600" src="./posts.png">
   <br/>
 </p>
 

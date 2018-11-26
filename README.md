@@ -1,5 +1,7 @@
 # facebookpost-reactjs-material-ui-graphql
-its sample reactjs code for facebook post using nodejs,mongodb,graphql 
+its sample reactjs code for facebook post using nodejs,mongodb,graphql.                  
+when you we press like,like will increase  
+
 
 
 <p align="center">

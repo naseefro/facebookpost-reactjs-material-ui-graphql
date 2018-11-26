@@ -28,7 +28,7 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 
 <h4>localhost:4000 will show Graphql</h4> 
 <p align="center">
-  <img width="150" src="./graphql.png">
+  <img width="600" src="./graphql.png">
   <br/>
 </p>
 <h5>enter like this to create a post in localhost:4000</h5>

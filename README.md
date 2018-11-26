@@ -8,7 +8,7 @@ its sample reactjs code for facebook post using nodejs,mongodb,graphql
 </p>
 
   </p>
-  <h1 align="center">facebook post/h1>
+  <h1 align="center">facebook post</h1>
 
 This sample is made with [React](https://github.com/facebook/react), [Material UI](https://github.com/callemall/material-ui) and a lot of efforts. feel free to fork and have fun with it.
 
@@ -41,9 +41,8 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
   }<br>
 }<br>
 <h4>
-<h3>
-then
-<h3> 
+
+ 
 
 <h3>Client</h3><br>
 1. cd client<br>

@@ -41,7 +41,9 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
   }<br>
 }<br>
 <h4>
-then 
+<h3>
+then
+<h3> 
 
 <h3>Client</h3><br>
 1. cd client<br>

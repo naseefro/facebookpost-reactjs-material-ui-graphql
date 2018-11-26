@@ -1,0 +1,36 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "@material-ui/icons": "^3.0.1",
+    "apollo-boost": "^0.1.22",
+    "graphql": "^14.0.2",
+    "material-ui": "^1.0.0-beta.47",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-apollo": "^2.3.1",
+    "react-avatar": "^3.4.6",
+    "react-compose": "^2.0.0",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
+    "reactstrap": "^6.5.0",
+    "semantic-ui-react": "^0.83.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

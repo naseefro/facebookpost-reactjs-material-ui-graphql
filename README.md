@@ -3,7 +3,6 @@ its sample reactjs code for facebook post using nodejs,mongodb,graphql
 
 
 <p align="center">
-  <img width="150" src="./src/assets/images/sexy-portfolio-logo.png">
   <br/>
 </p>
 
@@ -43,9 +42,9 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <h4>
 then 
 
-<h3>Client</h3>
-1. cd client
-2. npm install ----> install node_modules
-3. npm start  ----> to run 
-4. Visit [localhost:3000](http://localhost:3000).
+<h3>Client</h3><br>
+1. cd client<br>
+2. npm install ----> install node_modules<br>
+3. npm start  ----> to run <br>
+4. Visit [localhost:3000](http://localhost:3000)<br>
 

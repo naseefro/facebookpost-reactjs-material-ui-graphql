@@ -5,7 +5,7 @@ when you we press like,like will increase
 
 
 <p align="center">
-  <img width="600" src="./posts.png">
+  <img width="700" src="./posts.png">
   <br/>
 </p>
 

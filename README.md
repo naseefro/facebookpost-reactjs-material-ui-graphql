@@ -52,6 +52,6 @@ This sample is made with [React](https://github.com/facebook/react), [Material U
 <h3>Client</h3><br>
 1. cd client<br>
 2. npm install ----> install node_modules<br>
-3. npm start  ----> to run <br>
+3. npm start  --> to run <br>
 4. Visit [localhost:3000](http://localhost:3000)<br>
 
